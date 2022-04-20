@@ -1,0 +1,9 @@
+{
+	"name": "adfgitproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80f7f90a-9bd0-4eb1-b9de-7476972679eb",
+		"tenantId": "ee084c05-78f6-48c4-8bce-27b1879cecf5"
+	}
+}
