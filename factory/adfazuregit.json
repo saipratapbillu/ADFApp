@@ -1,0 +1,9 @@
+{
+	"name": "adfazuregit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a77c7bc-d94d-48dc-b834-91fa62ae7750",
+		"tenantId": "ee084c05-78f6-48c4-8bce-27b1879cecf5"
+	}
+}
